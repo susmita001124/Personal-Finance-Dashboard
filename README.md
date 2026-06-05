@@ -1,8 +1,8 @@
-# \# Personal Finance Dashboard in Excel
+# \# 📊 Personal Finance Dashboard in Excel
 
 # 
 
-# A beginner-friendly Excel dashboard project designed to analyze personal financial data through interactive visualizations and data summarization techniques.
+# A beginner-friendly Excel dashboard project built to analyze personal financial data using formulas, Pivot Tables, Pivot Charts, KPI Cards, and interactive slicers.
 
 # 
 
@@ -28,7 +28,15 @@
 
 # 
 
-# The dashboard uses Pivot Tables, Pivot Charts, KPI Cards, and Slicers to create a dynamic reporting experience.
+# The dashboard is designed to help users understand their financial activities through visualizations and summarized reports.
+
+# 
+
+# \## Dashboard Preview
+
+# 
+
+# !\[Dashboard Preview](images/Dashboard\_Preview.png)
 
 # 
 
@@ -36,19 +44,23 @@
 
 # 
 
-# \* Data cleaning and organization
+# \* Data Cleaning and Organization
 
-# \* Excel Table formatting
+# \* Excel Tables
 
-# \* SUMIF-based calculations
+# \* SUMIF Formula
 
-# \* Pivot Tables for data summarization
+# \* TEXT Formula
 
-# \* Pivot Charts for visualization
+# \* Pivot Tables
 
-# \* Interactive Slicers for filtering
+# \* Pivot Charts
 
-# \* Dashboard design with KPI indicators
+# \* Interactive Slicers
+
+# \* KPI Cards
+
+# \* Dashboard Design
 
 # 
 
@@ -62,9 +74,9 @@
 
 # \* Pivot Charts
 
-# \* SUMIF Formula
+# \* SUMIF
 
-# \* TEXT Formula
+# \* TEXT
 
 # \* Slicers
 
@@ -72,31 +84,19 @@
 
 # 
 
-# \## Dashboard Preview
-
-# 
-
-# \*Add dashboard screenshots here.\*
-
-# 
-
-# \## Repository Structure
+# \## Project Structure
 
 # 
 
 # ```text
 
-# ├── Dataset/
-
-# │   └── Personal\_Finance\_Data.xlsx
-
-# ├── Dashboard/
-
-# │   └── Personal\_Finance\_Dashboard.xlsx
+# .
 
 # ├── Images/
 
 # │   └── Dashboard\_Preview.png
+
+# ├── Personal\_Finance\_Dashboard.xlsx
 
 # └── README.md
 
@@ -108,7 +108,35 @@
 
 # 
 
-# This project was created to practice fundamental Excel skills and demonstrate how raw data can be transformed into an interactive dashboard for analysis and decision-making.
+# This project was created to practice and demonstrate:
+
+# 
+
+# \* Data Cleaning
+
+# \* Formula Applications
+
+# \* Data Summarization
+
+# \* Data Visualization
+
+# \* Dashboard Development
+
+# \* Financial Data Analysis
+
+# 
+
+# \## Getting Started
+
+# 
+
+# 1\. Download the Excel file.
+
+# 2\. Open it using Microsoft Excel.
+
+# 3\. Explore the dashboard using the slicers and filters.
+
+# 4\. Analyze income, expenses, and savings trends.
 
 # 
 
@@ -116,7 +144,7 @@
 
 # 
 
-# A detailed explanation of the project-building process is available on Medium.
+# A detailed walkthrough explaining how this dashboard was built is available on Medium.
 
 # 
 
@@ -124,7 +152,11 @@
 
 # 
 
-# Susmita Saha
+# \*\*Susmita Saha\*\*
+
+# 
+
+# Business Administration Student | Excel Learner | Aspiring Data Analyst
 
 
 
